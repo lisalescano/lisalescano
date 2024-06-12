@@ -24,7 +24,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador web Full-Stack 😁. Aquí e
 
 ### [Electro Emporium](https://frontelectroemporium.vercel.app/)
 
-Electro Emporium es un marketplace diseñado para la venta y compra de productos electrónicos. Esta plataforma permite a los usuarios buscar y ver los productos a la venta, comprarlos, publicar un producto para su venta, dejar una review de cada producto, crear un usuario.
+Electro Emporium es un marketplace diseñado para la venta y compra de productos electrónicos. Esta plataforma permite a los usuarios buscar y ver los productos a la venta, comprarlos, publicar un producto para su venta, dejar una review de cada producto, crear un usuario y demás funciones.
 
 ## Conéctate conmigo
 
