@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Me llamo Lisandro Lescano
+# ¡Hola! 👋 Soy Lisandro Lescano
 
 Bienvenido a mi perfil de GitHub. Soy desarrollador web Full-Stack 😁. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
